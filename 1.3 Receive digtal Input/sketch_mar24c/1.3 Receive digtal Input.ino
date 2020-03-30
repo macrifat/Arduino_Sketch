@@ -1,6 +1,7 @@
+// initializing pin
 int led=13;
 int input= 3;
-int state;
+int state; // for storing input values
 
 void setup() {
   // put your setup code here, to run once:
